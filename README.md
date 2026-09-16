@@ -1,7 +1,11 @@
 <div align="center">
 
-<h1>ARGUS</h1>
-<img src="assets/logo.jpg" alt="Argus Logo" width="140" height="140" />
+<h1>ARGUS.WORLD</h1>
+
+<p>
+  <img src="assets/logo.jpg" alt="Argus Logo" width="140" height="140" />
+</p>
+
 <a href="https://argus.world">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=1a2740&center=true&vCenter=true&width=680&lines=Official+Protocol+Source;Permissionless+Launchpad+on+Arc;Uniswap+v4+Hook+Architecture;Native+USDC+Liquidity" alt="Argus" />
 </a>
