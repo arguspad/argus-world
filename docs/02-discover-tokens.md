@@ -1,7 +1,5 @@
 # Find a token
 
-Source: https://argus.world/docs/discover-tokens
-
 Search by name, ticker or address, then take a closer look at the token page.
 
 ## Search the market
