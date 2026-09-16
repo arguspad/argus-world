@@ -1,7 +1,5 @@
 # Market data & payouts
 
-Source: https://argus.world/docs/integrate-markets
-
 Index pools by pool id, price a launch in its own quote, and read fees, bonding and
 creator payouts correctly.
 
