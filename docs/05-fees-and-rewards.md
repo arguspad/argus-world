@@ -1,7 +1,5 @@
 # Fees & rewards
 
-Source: https://argus.world/docs/fees-and-rewards
-
 Understand buy and sell tax, the allocation, and the holder rewards shown on a token
 page.
 
