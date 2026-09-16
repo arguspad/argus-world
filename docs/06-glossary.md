@@ -1,7 +1,5 @@
 # Glossary
 
-Source: https://argus.world/docs/glossary
-
 A quick reference for the labels you will see while browsing and launching tokens.
 
 ## Token identity
