@@ -9,7 +9,7 @@ The buy or sell tax rate determines the tax on that side of a trade. The allocat
 describes how the collected tax is divided. They are different percentages, applied
 at different stages.
 
-The launch settings reserve **10%** of collected tax for Argus. The creator's
+The launch settings reserve **10%** of collected tax for Argus. The creator's 
 four-way allocation applies to the remaining **90%**.
 
 Example, with 100 USDC of tax already collected (not a 100 USDC trade):
