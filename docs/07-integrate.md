@@ -1,7 +1,5 @@
 # Integrate Argus
 
-Source: https://argus.world/docs/integrate
-
 For exchanges, wallets, indexers and analytics: discover launches, decode the Portal
 record, and bind a token to its hook and pool.
 
