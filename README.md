@@ -216,7 +216,7 @@ The Argus Protocol source code is licensed under the **MIT License**.
 
 <div align="center">
 
-<img src="assets/argo.jpg" width="180" alt="Meme">
+<img src="assets/arguspanoptes.jpg" width="180" alt="Meme">
 
 <br>
 
