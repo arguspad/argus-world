@@ -10,15 +10,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=1a2740&center=true&vCenter=true&width=680&lines=Official+Protocol+Source;Permissionless+Launchpad+on+Arc;Uniswap+v4+Hook+Architecture;Native+USDC+Liquidity" alt="Argus" />
 </a>
 
-</div>
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-1a2740?style=for-the-badge)](#license)
-[![Solidity](https://img.shields.io/badge/solidity-%5E0.8.24-1a2740?style=for-the-badge&logo=solidity&logoColor=white)](#repository-layout)
-[![Chain](https://img.shields.io/badge/chain-Arc%20(chainId%205042)-1a2740?style=for-the-badge)](#network-specifications)
-[![Website](https://img.shields.io/badge/website-argus.world-1a2740?style=for-the-badge&logo=googlechrome&logoColor=white)](https://argus.world)
-[![X](https://img.shields.io/badge/follow-%40arguspad-1a2740?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arguspad)
-
-</div>
+<p align="center">
+  <a href="#license">
+    <img src="https://img.shields.io/badge/license-MIT-1a2740?style=for-the-badge" alt="License: MIT" />
+  </a>
+  <a href="#repository-layout">
+    <img src="https://img.shields.io/badge/solidity-%5E0.8.24-1a2740?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  </a>
+  <a href="#network-specifications">
+    <img src="https://img.shields.io/badge/chain-Arc%20(chainId%205042)-1a2740?style=for-the-badge" alt="Chain" />
+  </a>
+  <a href="https://argus.world">
+    <img src="https://img.shields.io/badge/website-argus.world-1a2740?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://x.com/arguspad">
+    <img src="https://img.shields.io/badge/follow-%40arguspad-1a2740?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2740,100:05070d&height=3&section=header" width="100%" />
 
