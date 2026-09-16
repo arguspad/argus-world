@@ -1,7 +1,5 @@
 # After you launch
 
-Source: https://argus.world/docs/launch-status
-
 Follow your launch, open your token page, and know what to do if it takes longer.
 
 ## From review to token page
