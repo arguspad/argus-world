@@ -51,7 +51,6 @@ There is no virtual bonding curve: the entire token supply is deposited into a s
 - [Revenue Distribution](#revenue-distribution)
 - [Token Standards (EIP-1167)](#token-standards-eip-1167)
 - [Repository Layout](#repository-layout)
-- [Implementation Status & Known Limitations](#implementation-status--known-limitations)
 - [Security](#security)
 - [License](#license)
 
@@ -205,20 +204,6 @@ To ensure maximum gas efficiency and security, Argus utilizes the **EIP-1167 Min
 ├── onchain/                 # Official contract addresses and event signatures
 └── scripts/                 # Deployment and interaction utilities
 ```
-
-## Implementation Status & Known Limitations
-
-This is a **reference implementation**, meant to faithfully document the protocol's intended behavior. A few points are deliberately simplified compared to a production deployment, and are explicitly flagged in the code:
-
-- **Placeholder `positionId`** — in `Portal.createLaunch()`, the `positionId` is derived from the `poolId` instead of coming from a real `PositionManager` (NFT), because this reference uses raw `modifyLiquidity` on the `PoolManager` directly instead of the peripheral contract.
-- **Simplified buy/sell direction** — `LaunchHook` assumes `params.zeroForOne` already correctly maps to buy/sell; in production it must be derived from `tokenIsToken0` (present in the `LaunchRecord`), not assumed.
-- **Bonding latch update not yet wired** — `afterSwap` doesn't yet read the post-swap tick from the `PoolManager` to trigger `_bonded`; it's left as an explicit TODO in the code.
-- **Splitter↔Locker circular dependency** — `RevenueSplitter` is deployed with `liquidityLocker = address(0)` because the real `Locker` requires a `positionId` that's only known after the position is opened. This should be solved with a two-phase pattern (deploy + `initialize()`), as already done for `LaunchToken`.
-- **Dev buy not implemented** — the Portal's exemption from the snipe tax is already wired into the Hook, but the actual `swap()` call for the optional dev buy is left as a TODO in `Portal.createLaunch()`.
-- **Direct fee transfers** — in a real deployment, v4 balances stay inside the `PoolManager` until `take()`/`settle()`; here simplified to direct transfers for readability.
-
-None of this invalidates the design described in the documentation, but **these points must be resolved before a production deployment**.
-
 ## Security
 
 - **Transparency**: all core logic is verifiable on-chain via the Arc Explorer.
