@@ -215,5 +215,14 @@ To ensure maximum gas efficiency and security, Argus utilizes the **EIP-1167 Min
 The Argus Protocol source code is licensed under the **MIT License**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2740,100:05070d&height=100&section=footer" width="100%" />
+
+<img src="assets/argo.jpg" width="180" alt="Meme">
+
+<br>
+
+<sub>
+<strong>Disclaimer:</strong> Memecoins are highly speculative and volatile. 
+Do your own research and never trade with funds you cannot afford to lose.
+</sub>
+
 </div>
