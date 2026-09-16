@@ -1,7 +1,5 @@
 # Welcome to Argus
 
-Source: https://argus.world/docs
-
 Find a token, create your own, and understand fees and rewards.
 
 ## The basics
