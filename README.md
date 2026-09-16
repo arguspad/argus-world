@@ -2,7 +2,7 @@
 
 **# Argus — Official Protocol Repository**
 
-<img src="assets/logo.png" alt="argus" width="96" height="96" />
+<img src="assets/logo.jpg" alt="argus" width="96" height="96" />
 
 <a href="https://argus.world">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=1a2740&center=true&vCenter=true&width=680&lines=Official+Protocol+Source;Permissionless+Launchpad+on+Arc;Uniswap+v4+Hook+Architecture;Native+USDC+Liquidity" alt="Argus" />
