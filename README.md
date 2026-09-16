@@ -18,7 +18,7 @@
 [![Website](https://img.shields.io/badge/website-argus.world-1a2740?style=for-the-badge&logo=googlechrome&logoColor=white)](https://argus.world)
 [![X](https://img.shields.io/badge/follow-%40arguspad-1a2740?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arguspad)
 
-</div> centra meglio i contenuti, che sennò vanno a capo
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2740,100:05070d&height=3&section=header" width="100%" />
 
