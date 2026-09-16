@@ -1,7 +1,5 @@
 # Create a token
 
-Source: https://argus.world/docs/create-token
-
 Prepare the identity, choose the settings, and review your token before creating it.
 
 ## Before you start
