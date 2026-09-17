@@ -1,7 +1,5 @@
 # Launch record layout, by Portal version
 
-Source: `argus.world/docs/integrate` §"Decode the launch record".
-
 Select the Portal by address first, then query `LAUNCH_STRUCT_WORDS()` and
 validate the exact returned length. Word count alone cannot separate #6 from
 #7, nor legacy v3 from a ten-word v4 record.
