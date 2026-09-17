@@ -4,7 +4,6 @@
 |---|---|
 | Network | Arc mainnet |
 | Chain ID (from Argus docs) | **5042** (`0x13b2`) |
-| ⚠️ Discrepancy | Third-party Arc/Circle sources I found independently cite `5042002` for Arc **testnet**; other unrelated projects use `1243` and `4564` for chains also called "Arc" elsewhere. Verify the chain ID with `eth_chainId` on your RPC before signing anything. |
 | Gas token | USDC (native on Arc) |
 
 ## The factories — Portal registry
