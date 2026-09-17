@@ -43,19 +43,6 @@ replaces the contracts of tokens already launched by an earlier Portal.
 | Locker | Same — holds the launch's liquidity position, is not a pool address |
 | Splitter | Same — accounts for revenue and payouts, version-specific per Portal |
 
-## Observation from your token (not yet confirmed as "official Argus")
-
-The deployed bytecode of `0x8e98a62a995a50eca9979bfa016f91bf36a8f9d9` (the
-token you gave me) is an **EIP-1167 minimal proxy** pointing to:
-
-```
-0x1b74922c01ddfd9c77b37d02c0a236611e8fe50
-```
-
-It is not among the addresses published in `docs/07-integrate.md`, so I'm not
-marking it as "official Argus token implementation" until confirmed by the
-creation event (`TokenCreated`/`PartsDeployed`) or the official ABI bundle.
-Details and next steps in [`verify-token.md`](verify-token.md).
 
 ## Published ABI/addresses bundle
 
