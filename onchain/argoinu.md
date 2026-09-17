@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="argo.png" alt="ARGO INU — Official Argus.world Mascot" width="420">
+<img src="argo.jpg" alt="ARGO INU — Official Argus.world Mascot" width="420">
 
 </div>
 
