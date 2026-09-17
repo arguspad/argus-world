@@ -217,12 +217,4 @@ The Argus Protocol source code is licensed under the **MIT License**.
 <div align="center">
 
 <img src="assets/arguspanoptes.jpg" width="180" alt="Meme">
-
-<br>
-
-<sub>
-<strong>Disclaimer:</strong> Memecoins are highly speculative and volatile. 
-Do your own research and never trade with funds you cannot afford to lose.
-</sub>
-
 </div>
